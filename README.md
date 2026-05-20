@@ -16,17 +16,16 @@
     <img src='./assets/logo.png' width ="100">
 </p>
 
-<center>
+<p align='center'>
     <b>Gerik is a gesture based controller for desktop<br>using hand and body gesture</b>
     <br>
-    <br>
-</center>
+</p>
 
-<center>
+<p align='center'>
     <a href="https://get.microsoft.com/installer/download/9NVZTNZDV336?referrer=appbadge" target="_self" >
         <img src="https://get.microsoft.com/images/en-us%20light.svg" width="180"/>
     </a>
-</center>
+</p>
 
 <br>
 
