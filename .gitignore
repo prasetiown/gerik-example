@@ -1,0 +1,7 @@
+.vscode/
+cpp/build/
+csharp/bin/
+csharp/obj/
+javascript/node_modules/
+python/.venv/
+rust/target/
